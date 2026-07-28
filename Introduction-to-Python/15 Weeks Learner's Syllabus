@@ -1,1 +1,118 @@
+Weekly Schedule
+Unit 1: Foundations of Programming & Python Syntax
+Week 1: Introduction to Python & Environment Setup
 
+Overview of programming languages and Python’s history/use cases.
+
+Installing Python, VS Code / PyCharm, and working with the interactive shell (IDLE).
+
+Writing your first Python script (Hello, World!).
+
+Week 2: Variables, Data Types, and Operators
+
+Understanding variables, naming conventions, and memory assignment.
+
+Basic data types: Integers, Floats, Strings, and Booleans.
+
+Arithmetic, assignment, and comparison operators.
+
+Week 3: Conditional Statements (Control Flow)
+
+Making decisions in code: if, elif, and else statements.
+
+Nested conditionals and logical operators (and, or, not).
+
+Practical logic building: Grade calculators or simple interactive games.
+
+Week 4: Loops & Iteration (While & For Loops)
+
+Repetitive tasks using while loops and infinite loop prevention.
+
+Iterating through sequences using for loops and the range() function.
+
+Loop control statements: break, continue, and pass.
+
+Unit 2: Data Structures & Modular Programming
+Week 5: Strings & Basic String Manipulation
+
+String indexing, slicing, and immutability.
+
+Built-in string methods (upper(), lower(), strip(), replace(), split()).
+
+Basic string formatting (f-strings).
+
+Week 6: Lists & Tuples
+
+Introduction to collections: Lists (mutable) vs. Tuples (immutable).
+
+List methods: append(), insert(), remove(), sort(), and slicing.
+
+Iterating through lists and basic list comprehensions.
+
+Week 7: Dictionaries & Sets
+
+Key-value pairs using Dictionaries (dict) and dictionary methods.
+
+Unordered unique collections using Sets.
+
+Choosing the right data structure for specific problems.
+
+Week 8: Functions & Modular Code
+
+Defining and calling functions with def.
+
+Parameters, arguments, default values, and keyword arguments.
+
+The return statement and understanding variable scope (Local vs. Global).
+
+Mid-Term Project / Review Week
+
+Unit 3: Advanced Concepts & Error Handling
+Week 9: Error & Exception Handling
+
+Syntax errors vs. Runtime errors (Exceptions).
+
+Using try, except, else, and finally blocks.
+
+Raising custom exceptions.
+
+Week 10: File Handling (I/O)
+
+Opening, reading, writing, and closing text files (open(), read(), write()).
+
+Using the with context manager for safe file operations.
+
+Working with CSV files using Python's built-in csv module.
+
+Week 11: Introduction to Object-Oriented Programming (OOP) - Part 1
+
+Principles of OOP: Classes and Objects.
+
+Defining constructors (__init__) and instance attributes/methods.
+
+Week 12: Object-Oriented Programming (OOP) - Part 2
+
+The four pillars of OOP introduction: Inheritance, Polymorphism, Encapsulation, and Abstraction.
+
+Writing reusable and organized class-based code.
+
+Unit 4: Working with Libraries & Final Capstone
+Week 13: Working with Modules and Standard Libraries
+
+Importing modules (import, from ... import).
+
+Exploring built-in utility libraries: math, random, datetime, and os.
+
+Installing third-party packages using pip.
+
+Week 14: Introduction to Data Analysis / Automation Basics
+
+Introduction to popular external libraries like NumPy or Pandas (basic data manipulation).
+
+Simple file/folder automation tasks using Python.
+
+Week 15: Final Capstone Project Presentations
+
+Submission and presentation of final student projects.
+
+Code review, debugging practices, and future learning paths (Web dev, Data Science, AI).
