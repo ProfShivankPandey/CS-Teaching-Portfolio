@@ -1,0 +1,22 @@
+Python was developed by Guido van Rossum and released in 1991
+It is older than Java, which was released in 1995
+Earlier, it wasn't a popular language, but in recent years, Python is second most popular programming Language. 
+Reason is its simplicity. For any Programming Language, having simple syntax is the most desirable feature, and Python best fits in it. 
+As a programmer, you don't need to spend more time learning the Programming Language; you want to spend time building logic and implementing the software.
+For example, the first program we write in Java, in C, or C++ to print Hello is lengthy. But in python its simply only 1 line Print("Hello").
+Python is a simple yet very powerful language. It is a general-purpose programming language; you can build any kind of application. 
+For Example: Console applications, Desktop applications, web applications, Gaming applications, AI, ML, IOT, and almost every kind of application.
+Python can connect to database systems. It can also read and modify files in the database system.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping or for production-ready software development.
+
+Now Why Python?
+* Python operates across multiple operating systems, including Windows, macOS, Linux, and single-board computers like Raspberry Pi.
+* The language features an approachable syntax closely resembling standard English.
+* It enables developers to implement programs using fewer lines of code compared to several alternative programming environments.
+* Operating on an interpreter-based model, Python executes code immediately upon writing, which significantly accelerates the prototyping phase.
+* Developers can approach coding in Python through procedural, object-oriented, or functional paradigms.
+* The architecture prioritizes visual readability by blending English-like structures with mathematical conventions.
+Syntax Comparison:
+* Unlike many programming languages that rely on semicolons or parentheses to terminate commands, Python utilizes standard line breaks.
+* Rather than employing curly brackets, Python defines code blocks and scope for loops, functions, and classes through consistent whitespace indentation.
